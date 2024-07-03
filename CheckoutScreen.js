@@ -138,6 +138,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     marginBottom: 5,
+    color: 'orange',
   },
   removeButton: {
     padding: 5,
@@ -163,6 +164,7 @@ const styles = StyleSheet.create({
   totalValue: {
     fontSize: 18,
     fontWeight: 'bold',
+    color: 'orange',
   },
   checkoutButton: {
     backgroundColor: 'black',
